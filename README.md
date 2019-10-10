@@ -1,2 +1,2 @@
 # FacialDetectionusingDeepLearning
-Created python code to detect facial expression
+Created python code to detect facial expression using deep learning
